@@ -1,2 +1,2 @@
 let myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world! Qué onda mundo!';
+myHeading.textContent = 'Hello world! Qué onda muchá!';
